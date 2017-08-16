@@ -1,0 +1,23 @@
+
+/*connected to index.html*/
+.header {
+  text-align: center;
+}
+
+/* Star Ratings for CovetFashion*/
+.ratings {
+  padding: 20px;
+}
+
+  .ratings-ios {
+    color: gold;
+  }
+
+  .ratings-android {
+    color: red;
+  }
+  .leftratings, .rightratings {
+    display: inline-block;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
